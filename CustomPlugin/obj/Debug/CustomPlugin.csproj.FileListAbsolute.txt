@@ -1,0 +1,8 @@
+D:\Other\Practice\Other\OtherApplication\CustomPlugin\bin\Debug\CustomPlugin.pdb
+D:\Other\Practice\Other\OtherApplication\CustomPlugin\obj\Debug\CustomPlugin.csprojResolveAssemblyReference.cache
+D:\Other\Practice\Other\OtherApplication\CustomPlugin\obj\Debug\CustomPlugin.Properties.Resources.resources
+D:\Other\Practice\Other\OtherApplication\CustomPlugin\obj\Debug\CustomPlugin.csproj.GenerateResource.Cache
+D:\Other\Practice\Other\OtherApplication\CustomPlugin\obj\Debug\CustomPlugin.pdb
+D:\Other\Practice\Other\OtherApplication\CustomPlugin\bin\Debug\CustomPlugin.dll.config
+D:\Other\Practice\Other\OtherApplication\CustomPlugin\bin\Debug\CustomPlugin.dll
+D:\Other\Practice\Other\OtherApplication\CustomPlugin\obj\Debug\CustomPlugin.dll

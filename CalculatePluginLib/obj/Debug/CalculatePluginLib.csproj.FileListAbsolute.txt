@@ -1,0 +1,7 @@
+D:\Other\Practice\Other\OtherApplication\CalculatePluginLib\bin\Debug\CalculatePluginLib.dll
+D:\Other\Practice\Other\OtherApplication\CalculatePluginLib\bin\Debug\CalculatePluginLib.pdb
+D:\Other\Practice\Other\OtherApplication\CalculatePluginLib\bin\Debug\InterfacePlugin.dll
+D:\Other\Practice\Other\OtherApplication\CalculatePluginLib\bin\Debug\InterfacePlugin.pdb
+D:\Other\Practice\Other\OtherApplication\CalculatePluginLib\obj\Debug\CalculatePluginLib.csprojResolveAssemblyReference.cache
+D:\Other\Practice\Other\OtherApplication\CalculatePluginLib\obj\Debug\CalculatePluginLib.dll
+D:\Other\Practice\Other\OtherApplication\CalculatePluginLib\obj\Debug\CalculatePluginLib.pdb

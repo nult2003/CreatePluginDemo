@@ -1,0 +1,11 @@
+D:\Other\Practice\Other\OtherApplication\TestPlugin\obj\Debug\TestPlugin.csprojResolveAssemblyReference.cache
+D:\Other\Practice\Other\OtherApplication\TestPlugin\obj\Debug\TestPlugin.Form1.resources
+D:\Other\Practice\Other\OtherApplication\TestPlugin\obj\Debug\TestPlugin.Properties.Resources.resources
+D:\Other\Practice\Other\OtherApplication\TestPlugin\obj\Debug\TestPlugin.csproj.GenerateResource.Cache
+D:\Other\Practice\Other\OtherApplication\TestPlugin\bin\Debug\TestPlugin.exe.config
+D:\Other\Practice\Other\OtherApplication\TestPlugin\bin\Debug\TestPlugin.exe
+D:\Other\Practice\Other\OtherApplication\TestPlugin\bin\Debug\TestPlugin.pdb
+D:\Other\Practice\Other\OtherApplication\TestPlugin\bin\Debug\CustomPlugin.dll
+D:\Other\Practice\Other\OtherApplication\TestPlugin\bin\Debug\CustomPlugin.pdb
+D:\Other\Practice\Other\OtherApplication\TestPlugin\obj\Debug\TestPlugin.exe
+D:\Other\Practice\Other\OtherApplication\TestPlugin\obj\Debug\TestPlugin.pdb

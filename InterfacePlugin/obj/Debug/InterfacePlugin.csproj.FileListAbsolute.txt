@@ -1,0 +1,5 @@
+D:\Other\Practice\Other\OtherApplication\InterfacePlugin\bin\Debug\InterfacePlugin.dll
+D:\Other\Practice\Other\OtherApplication\InterfacePlugin\bin\Debug\InterfacePlugin.pdb
+D:\Other\Practice\Other\OtherApplication\InterfacePlugin\obj\Debug\InterfacePlugin.csprojResolveAssemblyReference.cache
+D:\Other\Practice\Other\OtherApplication\InterfacePlugin\obj\Debug\InterfacePlugin.dll
+D:\Other\Practice\Other\OtherApplication\InterfacePlugin\obj\Debug\InterfacePlugin.pdb

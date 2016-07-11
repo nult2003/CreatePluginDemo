@@ -1,0 +1,9 @@
+D:\Other\Practice\Other\OtherApplication\CalculatePlugin\bin\Debug\CalculatePlugin.exe.config
+D:\Other\Practice\Other\OtherApplication\CalculatePlugin\bin\Debug\CalculatePlugin.exe
+D:\Other\Practice\Other\OtherApplication\CalculatePlugin\bin\Debug\CalculatePlugin.pdb
+D:\Other\Practice\Other\OtherApplication\CalculatePlugin\obj\Debug\CalculatePlugin.csprojResolveAssemblyReference.cache
+D:\Other\Practice\Other\OtherApplication\CalculatePlugin\obj\Debug\CalculatePlugin.Form1.resources
+D:\Other\Practice\Other\OtherApplication\CalculatePlugin\obj\Debug\CalculatePlugin.Properties.Resources.resources
+D:\Other\Practice\Other\OtherApplication\CalculatePlugin\obj\Debug\CalculatePlugin.csproj.GenerateResource.Cache
+D:\Other\Practice\Other\OtherApplication\CalculatePlugin\obj\Debug\CalculatePlugin.exe
+D:\Other\Practice\Other\OtherApplication\CalculatePlugin\obj\Debug\CalculatePlugin.pdb
